@@ -6,8 +6,9 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/jcohAIaSy2M <br />
 
 ### Images of The Portfolio Website:
-![HOME](Portfolio Images/Home.png)
-![Intro](Portfolio Images/Intro.png)
+![HOME](https://github.com/playstore777/portfolio_using_reactjs/tree/main/Portfolio%20Images/Home.png)
+
+![Intro](https://github.com/playstore777/portfolio_using_reactjs/tree/main/Portfolio%20Images/Intro.png)
 
 
 ### Resources Used in This Project
