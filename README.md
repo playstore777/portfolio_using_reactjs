@@ -6,9 +6,9 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 https://youtu.be/jcohAIaSy2M <br />
 
 ### Images of The Portfolio Website:
-![HOME](https://github.com/playstore777/portfolio_using_reactjs/tree/main/Portfolio%20Images/Home.png)
+![HOME](https://github.com/playstore777/portfolio_using_reactjs/blob/631b9265f18e3c00d5ba65711a1ea705875a61e3/Portfolio%20Images/Home.png)
 
-![Intro](https://github.com/playstore777/portfolio_using_reactjs/tree/main/Portfolio%20Images/Intro.png)
+![Intro](https://github.com/playstore777/portfolio_using_reactjs/blob/631b9265f18e3c00d5ba65711a1ea705875a61e3/Portfolio%20Images/Intro.png)
 
 
 ### Resources Used in This Project
